@@ -1,0 +1,148 @@
+export const people = [
+  {
+    id: 0,
+    name: "Creola Katherine Johnson",
+    profession: "mathematician",
+    accomplishment: "spaceflight calculations",
+    imageId: "MK3eW3A",
+  },
+  {
+    id: 1,
+    name: "Mario José Molina-Pasquel Henríquez",
+    profession: "chemist",
+    accomplishment: "discovery of Arctic ozone hole",
+    imageId: "mynHUSa",
+  },
+  {
+    id: 2,
+    name: "Mohammad Abdus Salam",
+    profession: "physicist",
+    accomplishment: "electromagnetism theory",
+    imageId: "bE7W1ji",
+  },
+  {
+    id: 3,
+    name: "Percy Lavon Julian",
+    profession: "chemist",
+    accomplishment:
+      "pioneering cortisone drugs, steroids and birth control pills",
+    imageId: "IOjWm71",
+  },
+  {
+    id: 4,
+    name: "Subrahmanyan Chandrasekhar",
+    profession: "astrophysicist",
+    accomplishment: "white dwarf star mass calculations",
+    imageId: "lrWQx8l",
+  },
+];
+
+export const recipes = [
+  {
+    id: "greek-salad",
+    name: "Greek Salad",
+    ingredients: ["tomatoes", "cucumber", "onion", "olives", "feta"],
+    imageSource: "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+  },
+  {
+    id: "spaghetti-carbonara",
+    name: "Spaghetti Carbonara",
+    ingredients: ["spaghetti", "eggs", "parmesan", "pancetta", "black pepper"],
+    imageSource: "https://images.unsplash.com/photo-1604908177526-c0e64e99562c",
+  },
+  {
+    id: "chicken-curry",
+    name: "Chicken Curry",
+    ingredients: [
+      "chicken",
+      "onions",
+      "garlic",
+      "ginger",
+      "curry powder",
+      "coconut milk",
+    ],
+    imageSource: "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f",
+  },
+  {
+    id: "beef-tacos",
+    name: "Beef Tacos",
+    ingredients: [
+      "ground beef",
+      "taco shells",
+      "lettuce",
+      "tomatoes",
+      "cheese",
+      "sour cream",
+    ],
+    imageSource: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092",
+  },
+  {
+    id: "vegetable-stir-fry",
+    name: "Vegetable Stir Fry",
+    ingredients: [
+      "broccoli",
+      "carrots",
+      "bell peppers",
+      "soy sauce",
+      "ginger",
+      "garlic",
+    ],
+    imageSource: "https://images.unsplash.com/photo-1604908554501-8d5f62c2f6a7",
+  },
+  {
+    id: "pancakes",
+    name: "Pancakes",
+    ingredients: ["flour", "milk", "eggs", "baking powder", "sugar", "butter"],
+    imageSource: "https://images.unsplash.com/photo-1583336663620-2c66b3b70672",
+  },
+  {
+    id: "caesar-salad",
+    name: "Caesar Salad",
+    ingredients: [
+      "romaine lettuce",
+      "croutons",
+      "parmesan",
+      "caesar dressing",
+      "chicken",
+    ],
+    imageSource: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
+  },
+  {
+    id: "margherita-pizza",
+    name: "Margherita Pizza",
+    ingredients: [
+      "pizza dough",
+      "tomato sauce",
+      "mozzarella",
+      "basil",
+      "olive oil",
+    ],
+    imageSource: "https://images.unsplash.com/photo-1548365328-4b8cbda60ce1",
+  },
+  {
+    id: "beef-stroganoff",
+    name: "Beef Stroganoff",
+    ingredients: [
+      "beef",
+      "mushrooms",
+      "onions",
+      "sour cream",
+      "beef broth",
+      "mustard",
+    ],
+    imageSource: "https://images.unsplash.com/photo-1598515211624-d9830fd7898e",
+  },
+  {
+    id: "chocolate-chip-cookies",
+    name: "Chocolate Chip Cookies",
+    ingredients: [
+      "flour",
+      "butter",
+      "sugar",
+      "brown sugar",
+      "eggs",
+      "chocolate chips",
+    ],
+    imageSource: "https://images.unsplash.com/photo-1589302168068-964664d93dc0",
+  },
+];
